@@ -1,0 +1,31 @@
+# Core dependencies
+pandas>=2.1.0
+scikit-learn>=1.3.0
+spacy>=3.7.0
+streamlit>=1.28.0
+wordcloud>=1.9.2
+python-dotenv>=1.0.0
+
+# Development dependencies
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.5.0
+pre-commit>=3.4.0
+
+# Additional useful packages
+plotly>=5.17.0
+seaborn>=0.12.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+scipy>=1.11.0
+joblib>=1.3.0
+
+# Security and logging
+cryptography>=41.0.0
+loguru>=0.7.0
+
+# Data validation
+pydantic>=2.4.0
+pydantic-settings>=2.0.0
